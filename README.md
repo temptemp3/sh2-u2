@@ -12,5 +12,6 @@
 - theme selection
   + currently default
 - dynamic charset -> utf-8
+- tags
 
 ---
