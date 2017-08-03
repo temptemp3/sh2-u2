@@ -15,5 +15,6 @@
 - tags
 - include
   + document
+- search
 
 ---
