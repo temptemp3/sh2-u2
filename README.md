@@ -11,7 +11,7 @@
 - robots
 - theme selection
   + currently default
-- dynamic charset -> utf-8 (content type charset set in head response)<pre><code>
+- dynamic charset -> utf-8 (content type charset set in head response) <pre><code>
 curl -Ik https://temptemp3.github.io/bash-script-coding-style-guide -s
 HTTP/2 200
 date: Sat, 05 Aug 2017 15:46:07 GMT
