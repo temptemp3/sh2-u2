@@ -17,3 +17,11 @@
 - search
 
 ---
+
+from u2.sh
+
+- strip html comments
+- disable markdown underbar for em instead forcing use of single asterisk
+- git show with diff filter, --diff-filter=AMd
+
+---
