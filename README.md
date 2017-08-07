@@ -16,13 +16,11 @@
 - include
   + document
 - search
-
----
-
-from u2.sh
-
-- strip html comments
-- disable markdown underbar for em instead forcing use of single asterisk
+- html comments
+  + strip html comments
+- markdown
+  + disable markdown underbar for em instead forcing use of single asterisk
 - git show with diff filter, --diff-filter=AMd
-
+  + u2.sh specific
+  
 ---
