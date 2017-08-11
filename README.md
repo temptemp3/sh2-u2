@@ -22,5 +22,6 @@
   + disable markdown underbar for em instead forcing use of single asterisk
 - git show with diff filter, --diff-filter=AMd
   + u2.sh specific
+- document title default behavior for case no bloginfo-name
   
 ---
